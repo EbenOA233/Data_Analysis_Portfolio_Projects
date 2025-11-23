@@ -1,0 +1,7 @@
+This project requires the following Python libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter
