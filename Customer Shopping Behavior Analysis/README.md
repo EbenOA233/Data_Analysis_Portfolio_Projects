@@ -35,6 +35,7 @@ Therefore, this project answers these business questions using exploratory data 
 ![Customer Age Distribution by Gender](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ed0ef05cdf3a34ce5018a4ee1006f0e1f20ae51f/Customer%20Shopping%20Behavior%20Analysis/visuals/Customer%20Age%20Distribution%20by%20Gender.png)
 
 - **One payment method dominates customer transactions:** Cash is the **most preferred payment method** and accounts for 44.73% of all purchases, indicating a clear customer preference. Credit card and debit card are the less preferred payment methods, with debit card being the least preferred.
+![Distribution of Payment Method Usage](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/a727df9207ec8113957b1857fffa541e417304df/Customer%20Shopping%20Behavior%20Analysis/visuals/Distribution%20of%20Payment%20Method%20Usage.png)
 
 ## 5. **Business Implications & Recommendations**
 
