@@ -32,6 +32,8 @@ Therefore, this project answers these business questions using exploratory data 
 - **Similar revenues accrued among shopping malls:** The highest revenue-accruing mall (i.e. Viaport Outlet) **earns just 3.67% more revenue** than the least revenue-accruing mall (i.e. Zorlu Center), indicating closely matched revenues at the ten observed shopping malls.
 - **Seasonal patterns in revenue and quantity sold:** Peak months show **4.39% higher sale-quantity and 7% higher revenue**, confirming mild but consistent seasonality. Specifically, October and March are the peak months for revenue and sale-quantities respectively.
 - **Strong customer activity in specific age-gender segments:** Young female customers aged 20-29 years are the **most active demography** that drive the highest transaction activity in the data, contributing 11.64% of all transactions. Females, more than males, are the dominant customers. Customers in age group 30-39 years record the highest male transaction activity.
+![Customer Age Distribution by Gender](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ed0ef05cdf3a34ce5018a4ee1006f0e1f20ae51f/Customer%20Shopping%20Behavior%20Analysis/visuals/Customer%20Age%20Distribution%20by%20Gender.png)
+
 - **One payment method dominates customer transactions:** Cash is the **most preferred payment method** and accounts for 44.73% of all purchases, indicating a clear customer preference. Credit card and debit card are the less preferred payment methods, with debit card being the least preferred.
 
 ## 5. **Business Implications & Recommendations**
