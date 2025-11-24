@@ -29,20 +29,35 @@ Therefore, this project answers these business questions using exploratory data 
 ## 4. **Results**
 
 - **High-revenue categories differ from highest-volume categories:** There is a **high disparity in sale quantities** of the product categories, **likewise in their revenues**. Furthermore, the highest-volume sale (i.e. Clothing) product category does not translate as the highest-revenue product category (i.e. Technology). Technology generates 67.8% more revenue than the second-highest product category (i.e. Shoes).
-![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/dcb6824a8f791d7dce49da48a7e49d9ce75498d5/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
-Product Categories vs Total Revenue
 
+**Product Categories vs Total Revenue**
+![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/dcb6824a8f791d7dce49da48a7e49d9ce75498d5/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
+
+
+**Product Categories vs Quantity Sold**
 ![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/81815395e5abefb9bb3a93d78dd5ac7e7a7164f5/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
-Product Categories vs Quantity Sold
 
 - **Similar revenues accrued among shopping malls:** The highest revenue-accruing mall (i.e. Viaport Outlet) **earns just 3.67% more revenue** than the least revenue-accruing mall (i.e. Zorlu Center), indicating closely matched revenues at the ten observed shopping malls.
+
+**Shopping Mall vs Revenue Generation**
 ![Shopping Mall vs Revenue Generation](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/c6c29ed8f3a7fb7a275d6de131414b9a09daaf5e/Customer%20Shopping%20Behavior%20Analysis/visuals/Shopping%20Mall%20vs%20Revenue%20Generation.png)
+
+
 - **Seasonal patterns in revenue and quantity sold:** Peak months show **4.39% higher sale-quantity and 7% higher revenue**, confirming mild but consistent seasonality. Specifically, October and March are the peak months for revenue and sale-quantities respectively.
+
+**Time Series of Sale Quantity and Total revenue per Month**
 ![Time Series of Sale Quantity and Total revenue per Month](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/77ffb37fad548f4983eb1a59218f82ee3099c734/Customer%20Shopping%20Behavior%20Analysis/visuals/Time%20Series%20of%20Sale%20Quantity%20and%20Total%20revenue%20per%20Month.png)
+
+
 - **Strong customer activity in specific age-gender segments:** Young female customers aged 20-29 years are the **most active demography** that drive the highest transaction activity in the data, contributing 11.64% of all transactions. Females, more than males, are the dominant customers. Customers in age group 30-39 years record the highest male transaction activity.
+
+**Customer Age Distribution by Gender**
 ![Customer Age Distribution by Gender](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ed0ef05cdf3a34ce5018a4ee1006f0e1f20ae51f/Customer%20Shopping%20Behavior%20Analysis/visuals/Customer%20Age%20Distribution%20by%20Gender.png)
 
+
 - **One payment method dominates customer transactions:** Cash is the **most preferred payment method** and accounts for 44.73% of all purchases, indicating a clear customer preference. Credit card and debit card are the less preferred payment methods, with debit card being the least preferred.
+
+**Distribution of Payment Method Usage**
 ![Distribution of Payment Method Usage](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/a727df9207ec8113957b1857fffa541e417304df/Customer%20Shopping%20Behavior%20Analysis/visuals/Distribution%20of%20Payment%20Method%20Usage.png)
 
 ## 5. **Business Implications & Recommendations**
