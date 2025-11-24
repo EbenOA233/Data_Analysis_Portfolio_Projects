@@ -29,6 +29,7 @@ Therefore, this project answers these business questions using exploratory data 
 ## 4. **Results**
 
 - **High-revenue categories differ from highest-volume categories:** There is a **high disparity in sale quantities** of the product categories, **likewise in their revenues**. Furthermore, the highest-volume sale (i.e. Clothing) product category does not translate as the highest-revenue product category (i.e. Technology). Technology generates 67.8% more revenue than the second-highest product category (i.e. Shoes).
+
 Product Categories vs Total Revenue
 ![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/dcb6824a8f791d7dce49da48a7e49d9ce75498d5/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
 
