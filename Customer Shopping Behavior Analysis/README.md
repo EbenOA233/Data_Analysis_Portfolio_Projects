@@ -31,16 +31,16 @@ Therefore, this project answers these business questions using exploratory data 
 - **High-revenue and highest-volume categories:** Clothing generates the highest revenue and is the largest in sale quantities. It accrues 67.8% more revenue than the second-highest product category (i.e. Shoes). Aside clothing category, not all the other high-selling products necessarily generate the highest-revenues, in-order.
 
 **Product Categories vs Total Revenue**
-![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/dcb6824a8f791d7dce49da48a7e49d9ce75498d5/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
+![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
 
 
 **Product Categories vs Quantity Sold**
-![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/81815395e5abefb9bb3a93d78dd5ac7e7a7164f5/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
+![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
 
 - **Mall activity:** The Mall of Istanbul leads with the highest revenue generation (20.22%) and followed by Kanyon (19.94%). Aside this close performance, the rest of the other malls have a disparity in revenue generation. The Emaar Square Mall is the least performing mall accounting for only 4.74% of the total revenue.
 
 **Shopping Mall vs Revenue Generation**
-![Shopping Mall vs Revenue Generation](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/c6c29ed8f3a7fb7a275d6de131414b9a09daaf5e/Customer%20Shopping%20Behavior%20Analysis/visuals/Shopping%20Mall%20vs%20Revenue%20Generation.png)
+![Shopping Mall vs Revenue Generation](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Shopping%20Mall%20vs%20Revenue%20Generation.png)
 
 
 - **Seasonal patterns in revenue and quantity sold:** Peak months show **4.39% higher sale-quantity and 7% higher revenue**, confirming mild but consistent seasonality. Specifically, October and March are the peak months for revenue and sale-quantities respectively.
