@@ -46,7 +46,7 @@ Therefore, this project answers these business questions using exploratory data 
 - **Seasonal patterns in revenue and quantity sold:** Peak months show **4.39% higher sale-quantity and 7% higher revenue**, confirming mild but consistent seasonality. Specifically, October and March are the peak months for revenue and sale-quantities respectively.
 
 **Time Series of Sale Quantity and Total revenue per Month**
-![Time Series of Sale Quantity and Total revenue per Month](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/77ffb37fad548f4983eb1a59218f82ee3099c734/Customer%20Shopping%20Behavior%20Analysis/visuals/Time%20Series%20of%20Sale%20Quantity%20and%20Total%20revenue%20per%20Month.png)
+![Time Series of Sale Quantity and Total revenue per Month](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/2c3ea7576bb680d30f89482e4b15d81a9a37e830/Customer%20Shopping%20Behavior%20Analysis/visuals/Time%20Series%20of%20Sale%20Quantity%20and%20Total%20revenue%20per%20Month.png)
 
 
 - **Strong customer activity in specific age-gender segments:** Young female customers aged 20-29 years are the **most active demography** that drive the highest transaction activity in the data, contributing 11.64% of all transactions. Females, more than males, are the dominant customers. Customers in age group 30-39 years record the highest male transaction activity.
