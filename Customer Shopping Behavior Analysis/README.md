@@ -79,7 +79,7 @@ Therefore, this project answers these business questions using exploratory data 
 This project analyses 49,477 real transactions from Istanbul malls to uncover insights on product performance, mall activity, seasonality, demographics, and payment behaviour. Through strong data cleaning, feature engineering, and visualization, the analysis reveals clear opportunities to optimize inventory, marketing, and operations. Overall, the work demonstrates practical, job-ready data analytics skills applied to a real retail dataset.
 
 ## Acknowledgments
-This project is based on an original dataset provided by Mehmet Tahir Aslan on Kaggle 
+This project is based on an original dataset provided by Mehmet Tahir Aslan on Kaggle.com 
 (Link: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset?select=customer_shopping_data.csv).  
 
 
