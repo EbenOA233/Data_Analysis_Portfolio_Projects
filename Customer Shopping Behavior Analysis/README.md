@@ -39,6 +39,7 @@ Therefore, this project addresses these business problems using exploratory data
 **Product Categories vs Quantity Sold**
 ![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
 
+
 - **Mall activity:** The Mall of Istanbul leads with the highest revenue generation (20.22%) and followed by Kanyon (19.94%). Aside this close performance, the rest of the other malls have a disparity in revenue generation. The Emaar Square Mall is the least performing mall accounting for only 4.74% of the total revenue.
 
 **Shopping Mall vs Revenue Generation**
