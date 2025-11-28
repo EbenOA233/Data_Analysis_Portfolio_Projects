@@ -37,7 +37,7 @@ Therefore, this project addresses these business problems using exploratory data
 ![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
 
 
-  **Product Categories vs Quantity Sold**
+   **Product Categories vs Quantity Sold**
 
 ![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
 
