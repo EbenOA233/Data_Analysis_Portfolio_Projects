@@ -32,12 +32,12 @@ Therefore, this project addresses these business problems using exploratory data
 
 - **High-revenue and highest-volume categories:** Clothing generates the highest revenue and is the largest in sale quantities. It accrues 67.8% more revenue than the second-highest product category (i.e. Shoes). Aside clothing category, not all the other high-selling products necessarily generate the highest-revenues, in-order.
 
-      **Product Categories vs Total Revenue**
+  **Product Categories vs Total Revenue**
 
 ![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
 
 
-      **Product Categories vs Quantity Sold**
+  **Product Categories vs Quantity Sold**
 
 ![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
 
@@ -45,7 +45,7 @@ Therefore, this project addresses these business problems using exploratory data
 
 - **Mall activity:** The Mall of Istanbul leads with the highest revenue generation (20.22%) and followed by Kanyon (19.94%). Aside this close performance, the rest of the other malls have a disparity in revenue generation. The Emaar Square Mall is the least performing mall accounting for only 4.74% of the total revenue.
 
-      **Shopping Mall vs Revenue Generation**
+  **Shopping Mall vs Revenue Generation**
 
 ![Shopping Mall vs Revenue Generation](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Shopping%20Mall%20vs%20Revenue%20Generation.png)
 
@@ -53,7 +53,7 @@ Therefore, this project addresses these business problems using exploratory data
 
 - **Seasonal patterns in revenue and quantity sold:** Peak months show **4.39% higher sale-quantity and 7% higher revenue**, confirming mild but consistent seasonality. Specifically, October and March are the peak months for revenue and sale-quantities respectively.
 
-      **Time Series of Sale Quantity and Total revenue per Month**
+  **Time Series of Sale Quantity and Total revenue per Month**
 
 ![Time Series of Sale Quantity and Total revenue per Month](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/2c3ea7576bb680d30f89482e4b15d81a9a37e830/Customer%20Shopping%20Behavior%20Analysis/visuals/Time%20Series%20of%20Sale%20Quantity%20and%20Total%20revenue%20per%20Month.png)
 
@@ -61,7 +61,7 @@ Therefore, this project addresses these business problems using exploratory data
 
 - **Strong customer activity in specific age-gender segments:** Young female customers aged 20-29 years are the **most active demographic** that drive the highest transaction activity in the data, contributing 11.64% of all transactions. Females, more than males, are the dominant customers. Customers in age group 30-39 years record the highest male transaction activity.
 
-      **Customer Age Distribution by Gender**
+  **Customer Age Distribution by Gender**
 
 ![Customer Age Distribution by Gender](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ed0ef05cdf3a34ce5018a4ee1006f0e1f20ae51f/Customer%20Shopping%20Behavior%20Analysis/visuals/Customer%20Age%20Distribution%20by%20Gender.png)
 
@@ -69,7 +69,7 @@ Therefore, this project addresses these business problems using exploratory data
 
 - **One payment method dominates customer transactions:** Cash is the **most preferred payment method** and accounts for 44.73% of all purchases, indicating a clear customer preference. Credit card and debit card are the less preferred payment methods, with debit card being the least preferred.
 
-      **Distribution of Payment Method Usage**
+  **Distribution of Payment Method Usage**
 
 ![Distribution of Payment Method Usage](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/a727df9207ec8113957b1857fffa541e417304df/Customer%20Shopping%20Behavior%20Analysis/visuals/Distribution%20of%20Payment%20Method%20Usage.png)
 
