@@ -2,23 +2,25 @@
 
 ## 1. **Executive Summary**
 
-This project analyses **49,477 retail transactions** from multiple malls in Istanbul to uncover patterns in customer behaviour, product performance, seasonal trends, mall performance, and payment preferences. The insights support data-driven decisions in marketing, inventory management, and sales optimization.
+This project analyses **49,477 real retail transactions** from multiple malls in Istanbul throughout 2022 and January 2023 to uncover patterns in customer behaviour, product performance, seasonal trends, mall performance, and payment preferences. The data gives a glimpse into the real shopping lifestyle and choices by customers in Istanbul. The insights support data-driven decisions in marketing, inventory management, and sales optimization.
 
 ## 2. **Business Problem**
 
-Business owners are fraught with questions/challenges such as:
+Businesses are fraught with questions/challenges such as:
 
-- Identifying their top-revenue and top-selling product categories.
-- Understanding how products perform across different shopping malls.
-- The seasonal fluctuations in customer demand.
-- How age and gender influence sale quantities.
-- Payment-method customer preference.
+-	Identifying top-revenue and top-selling product categories to stock.
+-	Performance of products across different shopping malls.
+-	Tracking seasonal trends of customer demand of products.
+-	Understanding how age and gender influence products sale-quantity.
+-	Determining payment method preferences by customers across shopping malls.
 
-Therefore, this project answers these business questions using exploratory data analytics (EDA) and provides visualization.
+Therefore, this project addresses these business problems using exploratory data analytics (EDA) and provides visualization.
 
 ## 3. **Methodology**
 
 **Data Cleaning:** Checked for missing values & duplicates, formatted dates, renamed columns, handled categories, grouped customer ages
+
+**Column Renaming:** invoice_no as _Invoice_no_, customer_id as _Customer_ID_, gender as _Gender_, age as _Age_, category as _Category_, quantity as _Quantity_Sold_, price as _Unit_Price_, payment_method as _Payment_Method_, invoice_date as _Invoice_Date_, shopping_mall as _Shopping_Mall_
 
 **Feature Engineering:** Added *Total Revenue* column (Quantity × Unit Price), created *Year-Month* for seasonality analysis
 
@@ -49,7 +51,7 @@ Therefore, this project answers these business questions using exploratory data 
 ![Time Series of Sale Quantity and Total revenue per Month](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/2c3ea7576bb680d30f89482e4b15d81a9a37e830/Customer%20Shopping%20Behavior%20Analysis/visuals/Time%20Series%20of%20Sale%20Quantity%20and%20Total%20revenue%20per%20Month.png)
 
 
-- **Strong customer activity in specific age-gender segments:** Young female customers aged 20-29 years are the **most active demography** that drive the highest transaction activity in the data, contributing 11.64% of all transactions. Females, more than males, are the dominant customers. Customers in age group 30-39 years record the highest male transaction activity.
+- **Strong customer activity in specific age-gender segments:** Young female customers aged 20-29 years are the **most active demographic** that drive the highest transaction activity in the data, contributing 11.64% of all transactions. Females, more than males, are the dominant customers. Customers in age group 30-39 years record the highest male transaction activity.
 
 **Customer Age Distribution by Gender**
 ![Customer Age Distribution by Gender](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ed0ef05cdf3a34ce5018a4ee1006f0e1f20ae51f/Customer%20Shopping%20Behavior%20Analysis/visuals/Customer%20Age%20Distribution%20by%20Gender.png)
