@@ -33,10 +33,12 @@ Therefore, this project addresses these business problems using exploratory data
 - **High-revenue and highest-volume categories:** Clothing generates the highest revenue and is the largest in sale quantities. It accrues 67.8% more revenue than the second-highest product category (i.e. Shoes). Aside clothing category, not all the other high-selling products necessarily generate the highest-revenues, in-order.
 
 **Product Categories vs Total Revenue**
+
 ![Product Categories vs Total Revenue](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Total%20Revenue.png)
 
 
 **Product Categories vs Quantity Sold**
+
 ![Product Categories vs Quantity Sold](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/92d053bb33ee240aa152af32161c55f7ca09c731/Customer%20Shopping%20Behavior%20Analysis/visuals/Product%20Categories%20vs%20Quantity%20Sold.png)
 
 
