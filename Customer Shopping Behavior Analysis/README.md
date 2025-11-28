@@ -89,7 +89,7 @@ Therefore, this project addresses these business problems using exploratory data
 
 ## 7. **Conclusion**
 
-This project analyses **49,477 real transactions** from Istanbul malls throughout 2022 and January 2023 to uncover insights on product performance, mall activity, seasonality, demographics, and payment behaviour. Through strong data cleaning, feature engineering, and visualization, the analysis reveals clear opportunities to optimize inventory, marketing, and operations. The result is crucial to business success for retail business owners, investors and shop managers operating in such large cities, trading similar products or run retail shops in shopping malls. Overall, the work demonstrates practical, job-ready data analytics skills applied to a real retail dataset.
+This project analyses **49,477 real transactions** from some Istanbul malls throughout 2022 and January 2023 to uncover insights on product performance, mall activity, seasonality, demographics, and payment behaviour. Through strong data cleaning, feature engineering, and visualization, the analysis reveals clear opportunities to optimize inventory, marketing, and operations. The result is crucial to business success for retail business owners, investors and shop managers operating in such large cities, trading similar products or run retail shops in shopping malls. Overall, the work demonstrates practical, job-ready data analytics skills applied to a real retail dataset.
 
 ## Acknowledgments
 This project is based on an original dataset provided by Mehmet Tahir Aslan on Kaggle.com 
