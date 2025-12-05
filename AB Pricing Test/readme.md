@@ -15,12 +15,19 @@ Retail businesses constantly face the challenge of determining the optimal produ
 A dataset comprising a total of 1000 customer entries and capturing 12 columns were analysed. Key features of the data include product price, sales volume and transaction date. Below are additional key descriptions and actions.
 
 **Data creation:** Zara retail transaction data, obtained from Kaggle.com, was modified and augment with ChatGPT generated data to form the 1000 customer entries.
+
 **Data Cleaning:**  Checked for na & null values; formatted dates.
+
 **Feature Engineering:** Created _Profit_ column [(Quantity) * (Price – Cost)], where assumed product cost is $15; Created _Year-Month_ for seasonality analysis; pivoted aggregated profit data by time and pricing group for time-series analysis
+
 **Data Grouping:** Prices are analysed in terms of two groups. Price Group A is for $24.99, and Price Group B is for $35.99. The product variants A and B are binary flags for price groups A and B respectively. Also, profit is categorized in terms of the two price groups.
+
 **Hypotheses:** Null Hypothesis (H0) – There is no difference in average profit per customer between the $30 price and $40 price; Alternative hypothesis (H1) – There is a difference in average profit per customer between the $30 price and $40 price. 
+
 **Statistical Testing:** The Welch’s test was selected to compare the mean profit of the two price groups as it does not assume equal variance of the observed groups and is robust for real-world business data.
+
 **Tools Used:** Python, Pandas, Scipy, Matplotlib, Seaborn, Jupyter Notebook, Microsoft Visual Studio Code, Git & Github
+
 **Skills:** Statistical Testing & Business Decision Making, Exploratory Data Analysis, Business Insight Development, Business Reporting & Storytelling, Data Cleaning, Feature Engineering, Data Aggregation & Grouping, Data Visualization & Chart Design, Git & Github File Management
 
 ## **4.	Results & Business Recommendation**
