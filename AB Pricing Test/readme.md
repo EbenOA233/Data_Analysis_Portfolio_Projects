@@ -31,7 +31,7 @@ A dataset comprising a total of 1000 customer entries and capturing 12 columns w
 **Skills:** Statistical Testing & Business Decision Making, Exploratory Data Analysis, Business Insight Development, Business Reporting & Storytelling, Data Cleaning, Feature Engineering, Data Aggregation & Grouping, Data Visualization & Chart Design, Git & Github File Management
 
 ## **4.	Results & Business Recommendation**
--	**Variation in Sales Volumes:** An exploration of the data shows that **sale volume differs** between the two prices of the jacket. The Sale volume is 1.84% higher when price of the jacket is $35.99 than when just $24.99. Similarly, total profit accumulation **is far higher when the product price is $35.99**. Zara and other fashion retail businesses are prudent in their decision to test different prices for products like the faux leather jacket, as clearly a higher profit is seen in one price group than the other.
+-	**Variation in Sales Volumes:** An exploration of the data shows that **sale volume differs** between the two prices of the jacket. The Sale volume is 1.84% higher when price of the jacket is $35.99 than when just $24.99. Similarly, total profit accumulation is far higher **when the product price is $35.99**. Zara and other fashion retail businesses are prudent in their decision to test different prices for products like the faux leather jacket, as clearly a higher profit is seen in one price group than the other.
 
 ![Sale Volume per Price Group](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/1df5541ff507104596041e2dfec02bab4fbcbe68/AB%20Pricing%20Test/visuals/Sale%20Volume%20per%20Price%20Group.png)
 
