@@ -14,14 +14,14 @@ Retail businesses constantly face the challenge of determining the optimal produ
 ## **3.	Methodology**
 A dataset comprising a total of 1000 customer entries and capturing 12 columns were analysed. Key features of the data include product price, sales volume and transaction date. Below are additional key descriptions and actions.
 
-Data creation: Zara retail transaction data, obtained from Kaggle.com, was modified and augment with ChatGPT generated data to form the 1000 customer entries.
-Data Cleaning:  Checked for na & null values; formatted dates.
-Feature Engineering: Created Profit column [(Quantity) * (Price – Cost)], where assumed product cost is $15; Created Year-Month for seasonality analysis; pivoted aggregated profit data by time and pricing group for time-series analysis
-Data Grouping: Prices are analysed in terms of two groups. Price Group A is for $24.99, and Price Group B is for $35.99. The product variants A and B are binary flags for price groups A and B respectively. Also, profit is categorized in terms of the two price groups.
-Hypotheses: Null Hypothesis (H0) – There is no difference in average profit per customer between the $30 price and $40 price; Alternative hypothesis (H1) – There is a difference in average profit per customer between the $30 price and $40 price. 
-Statistical Testing: The Welch’s test was selected to compare the mean profit of the two price groups as it does not assume equal variance of the observed groups and is robust for real-world business data.
-Tools Used: Python, Pandas, Scipy, Matplotlib, Seaborn, Jupyter Notebook, Microsoft Visual Studio Code, Git & Github
-Skills: Statistical Testing & Business Decision Making, Exploratory Data Analysis, Business Insight Development, Business Reporting & Storytelling, Data Cleaning, Feature Engineering, Data Aggregation & Grouping, Data Visualization & Chart Design, Git & Github File Management
+**Data creation:** Zara retail transaction data, obtained from Kaggle.com, was modified and augment with ChatGPT generated data to form the 1000 customer entries.
+**Data Cleaning:**  Checked for na & null values; formatted dates.
+**Feature Engineering:** Created _Profit_ column [(Quantity) * (Price – Cost)], where assumed product cost is $15; Created _Year-Month_ for seasonality analysis; pivoted aggregated profit data by time and pricing group for time-series analysis
+**Data Grouping:** Prices are analysed in terms of two groups. Price Group A is for $24.99, and Price Group B is for $35.99. The product variants A and B are binary flags for price groups A and B respectively. Also, profit is categorized in terms of the two price groups.
+**Hypotheses:** Null Hypothesis (H0) – There is no difference in average profit per customer between the $30 price and $40 price; Alternative hypothesis (H1) – There is a difference in average profit per customer between the $30 price and $40 price. 
+**Statistical Testing:** The Welch’s test was selected to compare the mean profit of the two price groups as it does not assume equal variance of the observed groups and is robust for real-world business data.
+**Tools Used:** Python, Pandas, Scipy, Matplotlib, Seaborn, Jupyter Notebook, Microsoft Visual Studio Code, Git & Github
+**Skills:** Statistical Testing & Business Decision Making, Exploratory Data Analysis, Business Insight Development, Business Reporting & Storytelling, Data Cleaning, Feature Engineering, Data Aggregation & Grouping, Data Visualization & Chart Design, Git & Github File Management
 
 ## **4.	Results & Business Recommendation**
 •	Variation in Sales Volumes: An exploration of the data shows that sale volume differs between the two prices of the jacket. The Sale volume is 1.84% higher when price of the jacket is $35.99 than when just $24.99. Similarly, total profit accumulation is far higher when the product price is $35.99. Zara and other fashion retail businesses are prudent in their decision to test different prices for products like the faux leather jacket, as clearly a higher profit is seen in one price group than the other.
@@ -36,4 +36,8 @@ To strengthen future pricing decisions, the following steps are recommended:
 
 ## **6.	Conclusion**
 This project demonstrates how A/B testing, profit engineering, and statistical validation can be applied to real retail pricing decisions. The results clearly show that the higher price group ($35.99) delivers superior profitability for Zara’s faux leather jacket with overwhelming statistical confidence. By following a structured, data-driven methodology, Zara can confidently implement the recommended pricing strategy and improve long-term revenue performance.
+
+## **Acknowledgement**
+This project uses a Zara sales dataset provided on Kaggle.com by samnambewan 
+(Link to dataset: https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara). This dataset is then modified and augment with data generated with ChatGPT.
 
