@@ -12,6 +12,7 @@ Retail businesses constantly face the challenge of determining the optimal produ
 -	Recommends a statistically superior price for the product based on the test.
 
 ## **3.	Methodology**
+
 A dataset comprising a total of 1000 customer entries and capturing 12 columns were analysed. Key features of the data include product price, sales volume and transaction date. Below are additional key descriptions and actions.
 
 **Data creation:** Zara retail transaction data, obtained from Kaggle.com, was modified and augment with ChatGPT generated data to form the 1000 customer entries.
@@ -31,6 +32,7 @@ A dataset comprising a total of 1000 customer entries and capturing 12 columns w
 **Skills:** Statistical Testing & Business Decision Making, Exploratory Data Analysis, Business Insight Development, Business Reporting & Storytelling, Data Cleaning, Feature Engineering, Data Aggregation & Grouping, Data Visualization & Chart Design, Git & Github File Management
 
 ## **4.	Results & Business Recommendation**
+
 -	**Variation in Sale Volumes:** An exploration of the data shows that **sale volumes differ** between the two prices of the jacket. The Sale volume is 1.84% higher when price of the jacket is $35.99 than when just $24.99. Similarly, total profit accumulation is far higher **when the product price is $35.99**. Zara and other fashion retail businesses are prudent in their decision to test different prices for products like the faux leather jacket, as clearly a higher profit is seen in one price group than the other.
 
 ![Sale Volume per Price Group](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/1df5541ff507104596041e2dfec02bab4fbcbe68/AB%20Pricing%20Test/visuals/Sale%20Volume%20per%20Price%20Group.png)
@@ -56,9 +58,11 @@ To strengthen future pricing decisions, the following steps are recommended:
 -	Run promotional impact testing (discount vs no discount)
 
 ## **6.	Conclusion**
+
 This project demonstrates how A/B testing, profit engineering, and statistical validation can be applied to real retail pricing decisions. The results clearly show that the higher price group ($35.99) delivers superior profitability for Zara’s faux leather jacket with overwhelming statistical confidence. By following a structured, data-driven methodology, Zara can confidently implement the recommended pricing strategy and improve long-term revenue performance.
 
 ## **Acknowledgement**
+
 This project uses a Zara sales dataset provided on Kaggle.com by samnambewan 
 (Link to dataset: https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara). This dataset is then modified and augment with data generated with ChatGPT.
 
