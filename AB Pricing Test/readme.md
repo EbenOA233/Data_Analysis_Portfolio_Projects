@@ -49,10 +49,11 @@ A dataset comprising a total of 1000 customer entries and capturing 12 columns w
 -	**Best Price for the product:** Based on the result, the **best price** for the product is $35.99. This price is statistically superior between the two prices, and is robust across time. For a fashion retail business like Zara, this outcome is critical to **maximize profit** whiles considering customer sensitivity to price change. Further, sticking to a largely accepted price of a product will build more customer patronage and encourage referrals.
 
 ## **5.	Next Steps**
+
 To strengthen future pricing decisions, the following steps are recommended:
-•	Conduct customer segmentation analysis (age, region, loyalty)
-•	Perform a price sensitivity analysis with additional price groups
-•	Run promotional impact testing (discount vs no discount)
+-	Conduct customer segmentation analysis (age, region, loyalty)
+-	Perform a price sensitivity analysis with additional price groups
+-	Run promotional impact testing (discount vs no discount)
 
 ## **6.	Conclusion**
 This project demonstrates how A/B testing, profit engineering, and statistical validation can be applied to real retail pricing decisions. The results clearly show that the higher price group ($35.99) delivers superior profitability for Zara’s faux leather jacket with overwhelming statistical confidence. By following a structured, data-driven methodology, Zara can confidently implement the recommended pricing strategy and improve long-term revenue performance.
