@@ -46,7 +46,7 @@ A dataset comprising a total of 1000 customer entries and capturing 12 columns w
 
 ![Mean Profit per Price Group](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/2e6517937219b16b05b63fbee2c873b2611c8d98/AB%20Pricing%20Test/visuals/Mean%20Profit%20Per%20Price%20Group.png)
 
--	**Best Price for the product:** Based on the result, the **best price for the product is $35.99**. This price is statistically superior between the two prices, and is robust across time. For a fashion retail business like Zara, this outcome is critical to **maximize profit** whiles considering customer sensitivity to price change. Further, sticking to a largely accepted price of a product will build more customer patronage and encourage referrals.
+-	**Best Price for the product:** Based on the result, the **best price** for the product is $35.99. This price is statistically superior between the two prices, and is robust across time. For a fashion retail business like Zara, this outcome is critical to **maximize profit** whiles considering customer sensitivity to price change. Further, sticking to a largely accepted price of a product will build more customer patronage and encourage referrals.
 
 ## **5.	Next Steps**
 To strengthen future pricing decisions, the following steps are recommended:
