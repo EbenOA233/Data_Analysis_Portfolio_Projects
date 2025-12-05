@@ -2,14 +2,14 @@
 
 ## 1.	**Executive Summary**
 
-This project explores a 1000 Zara-ChatGPT augmented retail transaction dataset to uncover patterns in purchasing behaviour of Zara’s Faux Leather Jacket. An a/b test is performed to determine the difference in mean profit per customer between two prices ($24.99 or $35.99) of the product. The result of the Welch two sample t-test’s p-value (4.98 × 10⁻¹⁰⁷), which is essentially 0, shows a strong statistically significant difference in mean profit between the two prices. Therefore, maintaining the price of $35.99 per product is statistically superior for profit generation. Like Zara, this result is crucial for fashion retail business owners, product inventory managers and sales executives to encourage data-driven pricing strategy to ensure enabled business profit margins.
+This project explores a **1000 Zara-ChatGPT augmented retail transaction** dataset to uncover patterns in purchasing behaviour of Zara’s Faux Leather Jacket. An a/b test is performed to determine the difference in mean profit per customer between two prices ($24.99 or $35.99) of the product. The result of the Welch two sample t-test’s p-value (4.98 × 10⁻¹⁰⁷), which is essentially 0, shows a strong statistically significant difference in mean profit between the two prices. Therefore, maintaining the price of $35.99 per product is statistically superior for profit generation. Like Zara, this result is crucial for fashion retail business owners, product inventory managers and sales executives to encourage data-driven pricing strategy to ensure enabled business profit margins.
 
 ## 2.	**Business Problem/Challenges**
 
 Retail businesses constantly face the challenge of determining the optimal product price that maximizes profit. A key strategic dilemma is whether to increase prices to improve profit margins or reduce prices to stimulate higher sales volume. Therefore, this project:
-•	Explores a retail transaction data to understand customer purchasing behaviour of Zara’s faux leather jacket.
-•	Performs an A/B test to determine difference in mean profit per customer between the two prices of the product.
-•	Recommends a statistically superior price for the product based on the test.
+-	Explores a retail transaction data to understand customer purchasing behaviour of Zara’s faux leather jacket.
+-	Performs an A/B test to determine difference in mean profit per customer between the two prices of the product.
+-	Recommends a statistically superior price for the product based on the test.
 
 ## **3.	Methodology**
 A dataset comprising a total of 1000 customer entries and capturing 12 columns were analysed. Key features of the data include product price, sales volume and transaction date. Below are additional key descriptions and actions.
