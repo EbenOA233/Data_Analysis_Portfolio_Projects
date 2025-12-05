@@ -39,7 +39,13 @@ A dataset comprising a total of 1000 customer entries and capturing 12 columns w
 ![Total Profit per Price Group](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/b669e25b44a4315bcb95dfd16df2ddb793f62062/AB%20Pricing%20Test/visuals/Total%20Profit%20per%20Price%20Group.png)
 
 
--	**Strong Statistical Significance in Mean Profit Per Customer:** The result of the Welsch two sample t-test indicates a strong statistically significant difference in mean profit per customer between the two prices. A p-value of 4.98 × 10⁻¹⁰⁷, which is essentially 0, is recorded showing that profit difference due to price change is real. Further, the difference in mean profit between the two prices is statistically decisive, with an extremely small probability of occurring by random chance. The null hypothesis is rejected, and alternative hypothesis is accepted.  
+![Times Series of Profit per Price Group](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/2e6517937219b16b05b63fbee2c873b2611c8d98/AB%20Pricing%20Test/visuals/Times%20Series%20of%20Profit%20per%20Price%20Group.png)
+
+
+-	**Strong Statistical Significance in Mean Profit Per Customer:** The result of the Welsch two sample t-test indicates a strong statistically significant difference in mean profit per customer between the two prices. A p-value of 4.98 × 10⁻¹⁰⁷, which is essentially 0, is recorded showing that profit difference due to price change is real. Further, the difference in mean profit between the two prices is statistically decisive, with an extremely small probability of occurring by random chance. The null hypothesis is rejected, and alternative hypothesis is accepted.
+
+![Mean Profit per Price Group](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/2e6517937219b16b05b63fbee2c873b2611c8d98/AB%20Pricing%20Test/visuals/Mean%20Profit%20Per%20Price%20Group.png)
+
 -	**Best Price for the product:** Based on the result, the best price for the product is $35.99. This price is statistically superior between the two prices, and is robust across time. For a fashion retail business like Zara, this outcome is critical to maximize profit whiles considering customer sensitivity to price change. Further, sticking to a largely accepted price of a product will build more customer patronage and encourage referrals.
 
 ## **5.	Next Steps**
