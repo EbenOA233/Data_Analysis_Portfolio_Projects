@@ -27,9 +27,9 @@ Based on the result, insurance companies should primarily focus their expats-tar
 
 ## 5. **Next Steps**
 To expand the analytical and business value of this project, the following improvements are recommended:
-•	Integrate city-level expat population data for more precise targeting
-•	Add time-series analysis to observe expat growth trends
-•	Perform demographic segmentation (age, employment sector, nationality)
+- Integrate city-level expat population data for more precise targeting
+- Add time-series analysis to observe expat growth trends
+- Perform demographic segmentation (age, employment sector, nationality)
 
 ## 6. **Conclusion**
 This project demonstrates that Datawrapper can be a useful tool for businesses to analyse and visualise data, and also support turnkey solutions to their problems. With these results, insurance companies can strategically focus their expat-targeted insurance packages at high-expat populated states and enjoy high-turnover potential. This will help them reduce logistical investment risks through investments at very sparse expat-settling states, which can result in business revenue losses. The implementation of Datawrapper to solve business problems extends beyond insurance to sales, marketing, banking and presents multiple benefits in asset management.
