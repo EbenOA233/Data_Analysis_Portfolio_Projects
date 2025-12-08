@@ -23,6 +23,7 @@ This project uses population data obtained from the German Federal Statistical O
 
 ## 4. **Results & Business Recommendations**
 Out of a total of 12,908,068 foreigners country-wide, the states with the highest population of foreigners are Nordrhein-Westfalen (22.75%), Bayern (16.70%) and Baden-Württemberg (16.26%). Furthermore, Mecklenburg-Vorpommern records the lowest population of foreigners out of all the states in the country (0.89%).
+
 Based on the result, insurance companies should primarily focus their expats-targeted insurance packages to Nordrhein-Westfalen, Bayern and Baden-Württemberg states, in order. This is due to the high expat-population there and the higher turnover potential for them. Similarly, although Berlin has a lower expat population relative to the top three, its recognition as the country's capital, and the presence of large multinational companies and multicultural atmosphere there makes it a potential hotspot.
 
 ## 5. **Next Steps**
