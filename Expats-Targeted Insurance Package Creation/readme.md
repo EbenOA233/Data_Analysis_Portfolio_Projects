@@ -34,6 +34,7 @@ Out of a total of 12,908,068 foreigners country-wide, the states with the highes
 
 
 
+
 Based on the result, insurance companies should primarily focus their expats-targeted insurance packages to Nordrhein-Westfalen, Bayern and Baden-Württemberg states, in order. This is due to the high expat-population there and the higher turnover potential for them. Similarly, although Berlin has a lower expat population relative to the top three, its recognition as the country's capital, and the presence of large multinational companies and multicultural atmosphere there makes it a potential hotspot.
 
 ## 5. **Next Steps**
