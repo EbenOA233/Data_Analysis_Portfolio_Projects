@@ -3,6 +3,7 @@
 ## 1. **Executive Summary**
 
 The project analyses and visualises the Population of Foreigners per state in Germany using Datawrapper. This insight is crucial to insurance companies to help them focus their expat-targeted insurance packages at high-expat populated areas in the country. This reduces the risk of logistical investment at sparse expat settling-areas, to avoid potential business loss. 
+
 The findings reveal that Nordrhein-Westfalen, Bayern, and Baden-Württemberg states host the largest expat populations, in order. This makes them the most strategic regions for expat-focused insurance marketing and product development. Also, Berlin is also a potential hotspot albeit its low expat population relative to the top three. This is due to its recognition as the country's capital, and the presence of multinational companies and its multicultural atmosphere.
 
 ## 2. **Business Problem/Challenge**
