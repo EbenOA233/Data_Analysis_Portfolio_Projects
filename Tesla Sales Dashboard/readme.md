@@ -35,7 +35,7 @@ A synthetic Tesla sales transaction dataset comprising 1000 customer entries and
 
 ![Dashboard View](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/24941c3d51316e6d76dc5d7f7168913088d914b9/Tesla%20Sales%20Dashboard/visual/Visual%20-%20Dashboard.png)
 
-**Dashboard Design view**
+**Dashboard View**
 
 
 Link to Microsoft Excel file to explore dashboard --> (https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/24941c3d51316e6d76dc5d7f7168913088d914b9/Tesla%20Sales%20Dashboard/data/Tesla_sales_dataset.xlsx)
