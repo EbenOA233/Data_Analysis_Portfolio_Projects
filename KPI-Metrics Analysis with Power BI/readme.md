@@ -14,9 +14,11 @@ Logistics businesses like UPS encounter a challenge of accessing a dashboard tha
 
 A synthetic dataset mimicking the financial and logistical operations of UPS in Germany is used in this project. The dataset, generated from ChatGPT, has two sheets – sales and cost. Each sheet has 2000 rows, with the sales sheet consisting of 9 columns and the cost sheet having 4 columns. The sales sheet has column features like transaction id, shipment date, shipping fee, and number of packages whiles the cost sheet has features like cost and handling fee. The transaction id column is the common column between the two sheets.
 
-**Tools:** Power BI (ETL, Power Query, Data Modelling [Table Joins], Multi-Sheet Data Management,  Dashboard Design, Slicer Development, Chart Design); ChatGPT (Prompt Engineering & Data Generation); Microsoft Excel
+**Data Cleaning:** Standardizing data column formats; checking for null values.
 
-**Skills:** Power BI Data Analysis & Dashboard Design, ETL, Data Aggregation, Data Cleaning, Chart Design & Data Visualization, Business Insight & Development, Business Reporting & Storytelling
+**Tools:** Power BI (ETL, Power Query, Data Modelling [Table Joins], Dashboard Design, Slicer Development); Microsoft Excel; ChatGPT
+
+**Skills:** Power BI Data Analysis & Dashboard Design, ETL, Chart Design & Data Visualization, Data Aggregation, ChatGPT Prompt Engineering & Data Generation, Business Insight & Development, Business Reporting & Storytelling
 
 ## **4.0	Key Findings**
 
@@ -24,6 +26,14 @@ A synthetic dataset mimicking the financial and logistical operations of UPS in 
 -	The highest revenue month was October (€4,086.03) and the least was February (€2,807.44). 
 -	The state with the highest transaction frequency was North Rhine-Westphalia (216) and lowest was Hesse (175).
 -	Books are identified as the highest shipping product-type (25.19%), followed by Electronics (24.99%). This result is also observed in revenue accruement per product type (Books - €10,220 ; Electronics - €10,140)
+
+
+![Dashboard View](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ba3736cc211094a19567b07ccd3aef2c4e71f0f1/KPI-Metrics%20Analysis%20with%20Power%20BI/visual/Dashboard%20View.png)
+
+**Dashboard View**
+
+
+Link to the Power BI project file to explore the dashboard --> (https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ba3736cc211094a19567b07ccd3aef2c4e71f0f1/KPI-Metrics%20Analysis%20with%20Power%20BI/dashboard/UPS_financial_dashboard.pbix)
 
 ## **5.0	Recommendation**
 
