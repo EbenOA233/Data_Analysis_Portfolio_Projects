@@ -4,11 +4,11 @@ My name is Ebenezer Oheneba Amoakoh, and you're welcome to my Data Analysis proj
 
 This repository presents a collection of projects focused on transforming raw data into clear insights and actionable results.
 
-It includes work with Python, SQL, Power BI, Microsoft Excel, Datawrapper, data visualization, and real-world datasets, demonstrating my strong analytical thinking and problem-solving skills .
+It includes work with Python, SQL, Power BI, Microsoft Excel, Datawrapper, data visualization, and real-world datasets, demonstrating my strong analytical thinking and problem-solving skills.
 
 Each project is well-documented and reflects practical, industry-relevant data analysis workflows.
 
-📧 Reach me on: 
+📧 Contact me on: 
 
 Email Address: eoaamoakoh@gmail.com
 
