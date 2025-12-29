@@ -14,11 +14,11 @@ Logistics businesses like UPS encounter a challenge of accessing a dashboard tha
 
 A synthetic dataset mimicking the financial and logistical operations of UPS in Germany is used in this project. The dataset, generated from ChatGPT, has two sheets – sales and cost. Each sheet has 2000 rows, with the sales sheet consisting of 9 columns and the cost sheet having 4 columns. The sales sheet has column features like transaction id, shipment date, shipping fee, and number of packages whiles the cost sheet has features like cost and handling fee. The transaction id column is the common column between the two sheets.
 
-**Data Cleaning:** Standardizing data column formats; checking for null values.
+**Data Cleaning:** Checking for null values; Standardizing data column formats
 
 **Tools:** Power BI (ETL, Power Query, Data Modelling [Table Joins], Dashboard Design, Slicer Development); Microsoft Excel; ChatGPT
 
-**Skills:** Power BI Data Analysis & Dashboard Design, ETL, Chart Design & Data Visualization, Data Aggregation, ChatGPT Prompt Engineering & Data Generation, Business Insight & Development, Business Reporting & Storytelling
+**Skills:** Power BI Data Analysis & Dashboard Design, ETL, Chart Design & Data Visualization, Data Aggregation, Business Insight & Development, Business Reporting & Storytelling, ChatGPT Prompt Engineering & Data Generation
 
 ## **4.0	Key Findings**
 
@@ -30,16 +30,14 @@ A synthetic dataset mimicking the financial and logistical operations of UPS in 
 
 ![Dashboard View](https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ba3736cc211094a19567b07ccd3aef2c4e71f0f1/KPI-Metrics%20Analysis%20with%20Power%20BI/visual/Dashboard%20View.png)
 
-**Dashboard View**
+**Power BI Dashboard View**
 
 
-Link to the Power BI project file to explore the dashboard --> (https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ba3736cc211094a19567b07ccd3aef2c4e71f0f1/KPI-Metrics%20Analysis%20with%20Power%20BI/dashboard/UPS_financial_dashboard.pbix)
+Link to the Power BI project file to explore the dashboard -> (https://github.com/EbenOA233/Data_Analysis_Portfolio_Projects/blob/ba3736cc211094a19567b07ccd3aef2c4e71f0f1/KPI-Metrics%20Analysis%20with%20Power%20BI/dashboard/UPS_financial_dashboard.pbix)
 
 ## **5.0	Recommendation**
 
-To grow profits, UPS can leverage the insights of the dashboard to implement key actions. Central is to make an effort to expand variations in packages it usually ships beyond the traditional electronics, furniture, clothing and books. This can be achieved by strategic B2B/B2C advertisements and promotions to attract niched clients to deliver with them. 
-
-Also, finding ways to reduce operational cost without compromising client results and satisfaction, will grow margins. Additionally, expanding operational activities to other economic states like Baden-Wurttemberg will also boost long-term business revenue.
+To grow profits, UPS can leverage the insights of the dashboard to implement key actions. Central is to make an effort to expand variations in packages it usually ships beyond the traditional electronics, furniture, clothing and books. This can be achieved by strategic B2B/B2C advertisements and promotions to attract niched clients to deliver with them. Also, finding ways to reduce operational cost without compromising client results and satisfaction, will grow margins. Additionally, expanding operational activities to other economic states like Baden-Wurttemberg will also boost long-term business revenue.
 
 ## **6.0	Next Steps**
 
@@ -52,4 +50,8 @@ Future improvements to this project could include:
 ## **7.0	Conclusion**
 
 This project demonstrates how interactive dashboards and KPI-driven analytics can transform logistics data into actionable business insights.
+
 By leveraging interactive Power BI dashboards, businesses like UPS can gain timely, data-driven insights into their operational and financial performance, enabling them to identify trends, optimize resource allocation, improve efficiency, and implement strategic decisions that support long-term business growth.
+
+## **Acknowledgement**
+Data generated using ChatGPT platform (Date Accessed: 21/12/2025)
