@@ -4,7 +4,7 @@ My name is Ebenezer Oheneba Amoakoh, and you're welcome to my Data Analysis proj
 
 This repository presents a collection of projects focused on transforming raw data into clear insights and actionable results.
 
-It includes work with Python, SQL, Power BI, Microsoft Excel, Datawrapper, data visualization, and real-world datasets, demonstrating my problem-solving skills and analytical thinking.
+It includes work with Python, SQL, Power BI, Microsoft Excel, Datawrapper, data visualization, and real-world datasets, demonstrating my problem-solving skills and strong analytical thinking.
 
 Each project is well-documented and reflects practical, industry-relevant data analysis workflows.
 
