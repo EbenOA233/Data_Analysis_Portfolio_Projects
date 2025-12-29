@@ -12,4 +12,4 @@ Each project is well-documented and reflects practical, industry-relevant data a
 
 Email Address: eoaamoakoh@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/ebenezer-oheneba-amoakoh-b08286145?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUAFyb2yFS%2Fiv0WXzyJN%2Fcw%3D%3D
+LinkedIn Profile: https://www.linkedin.com/in/ebenezer-oheneba-amoakoh-b08286145?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUAFyb2yFS%2Fiv0WXzyJN%2Fcw%3D%3D
