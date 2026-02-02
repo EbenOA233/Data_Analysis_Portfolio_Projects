@@ -1,0 +1,7 @@
+This project requires the following tools:
+- Microsoft SQL Server Management Studio 22
+
+Additionally, the following Python libraries are used:
+- pandas
+- matplotlib
+- SQLAlchemy
